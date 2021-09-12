@@ -1,6 +1,6 @@
-### Hi there, I'm Andika 👋
+## Hi there, I'm Andika 👋
 
-## I am a father and web developer
+### I am a father and web developer
 
 - 🔭 I’m currently working on PT. Whello Indonesia Prima
 - 🌱 I’m currently learning Everything
